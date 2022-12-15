@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:regular,italic,700,900&display=swap);
 
-@charset "UTF-8";
 
 * {
 	padding: 0px;
@@ -105,13 +104,6 @@ h6 {
 	background: #fff;
 }
 
-/*
-(i) Стили будут применяться ко 
-всем классам содержащим *__container
-Например header__container, main__container и т.д.
-Снипет (HTML): cnt
-*/
-
 [class*=__container] {
 	max-width: 62.5rem;
 	margin: 0 auto;
@@ -203,57 +195,6 @@ h6 {
 	padding: 0 0.9375rem;
 }
 
-/*
-.icon-menu {
-	display: none;
-	@media (max-width: $mobile) {
-		display: block;
-		position: relative;
-		width: rem(30);
-		height: rem(18);
-		z-index: 5;
-		@media (any-hover: none) {
-			cursor: default;
-		}
-		span,
-		&::before,
-		&::after {
-			content: "";
-			transition: all 0.3s ease 0s;
-			right: 0;
-			position: absolute;
-			width: 100%;
-			height: rem(2);
-			background-color: #000;
-		}
-		&::before {
-			top: 0;
-		}
-		&::after {
-			bottom: 0;
-		}
-		span {
-			top: calc(50% - rem(1));
-		}
-		.menu-open & {
-			span {
-				width: 0;
-			}
-			&::before,
-			&::after {
-			}
-			&::before {
-				top: calc(50% - rem(1));
-				transform: rotate(-45deg);
-			}
-			&::after {
-				bottom: calc(50% - rem(1));
-				transform: rotate(45deg);
-			}
-		}
-	}
-}
-*/
 
 .footer {
 	background: #1E2837;
