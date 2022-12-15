@@ -1,5 +1,5 @@
 # But-Husaim Alexander 
-![photo](img/01.jpg)
+![photo](img/ava.png)
 ### Contacts
 
 * Tel: **+375292400421**
@@ -9,7 +9,7 @@
 
 ## About me
 
-My name is **Alexander**. I am 29 years old. I live in the city of Brest with my wife and daughter. From 2015 to the present day I have been working as a system administrator. In 2019, I completed 2 courses in English (level A2 +).
+Hi. In 2015, he graduated from the university and started working as a system administrator. After 5 years of work, I got bored in this profession and I began to look for something new. I tried a lot, but I liked web development the most. In the future I want to become a front-end developer and for this I will do my best!
 
 ## Education
 * ***University*** :  Belarusian National Technical University, Information technology engineer
